@@ -1,0 +1,32 @@
+27,Alien Invasion,68.0,Extraterrestrial Games,2022-12-10,87,Sci-Fi
+22,Ancient Mysteries,44.0,History Games,2023-04-20,100,Mystery
+30,City Skylines,60.0,Urban Planning Games,2023-02-25,70,Simulation
+19,Cyberpunk Chronicles,75.0,Tech Noir,2023-02-05,0,Cyberpunk
+25,Dinosaur Safari,37.0,Prehistoric Games,2023-02-20,50,Adventure
+12,Epic Battles,49.0,warrior Productions,2022-12-05,80,Action
+3,Fantasy Realms,39.0,Imagination Games,2023-02-28,80,Adventure
+14,Future City Builder,65.0,Futuristic Designs,2023-02-15,0,Simulation
+26,Future Tech Racing,47.0,Tech Racing Studios,2023-03-20,0,Racing
+2,Galactic Odyssey,59.0,Space Studios,2022-11-30,100,Sci-Fi
+29,Haunted Mansion,40.0,Spooky Entertainment,2023-01-30,0,Horror
+9,Historical Conquest,49.0,Time Travel Games,2022-11-15,70,Strategy
+7,Infinite warfare,55.0,Future Tech,2023-01-05,0,FPS
+10,Magic Duel,39.0,wizard Studios,2023-03-25,0,Fantasy
+28,Medieval Kingdoms,52.0,Castle Games,2023-04-25,60,Strategy
+15,Monster Mayhem,55.0,Monster Studios,2023-03-05,0,Horror
+5,Mystic Quest,45.0,Enigma Entertainment,2022-12-20,60,RPG
+6,Pixel Racer,29.0,Retro Games,2023-04-05,120,Racing
+8,Puzzle Paradise,34.0,Mind Games Ltd.,2023-02-10,90,Puzzle
+23,Space Colony Simulator,63.0,Cosmic Creations,2022-11-20,120,Simulation
+17,Space Invaders,30.0,Retro Space,2023-04-10,90,Arcade
+4,Sports Showdown 2023,69.0,Athletics Inc.,2023-03-10,0,Sports
+24,Stealth Ops,54.0,Shadow Games,2023-01-25,0,Stealth
+18,Superhero Saga,58.0,Heroic Entertainment,2023-01-10,70,Action
+13,Survival Challenge,42.0,Survivor Games,2023-01-20,0,Survival
+30,tet,21.0,Nintendo,[31m,34,Horror
+1,The Legend of Adventure,49.0,Gaming Co.,2023-01-15,50,Action
+11,Underwater Odyssey,59.0,Oceanic Games,2023-04-15,100,Adventure
+20,Viking Valor,50.0,Norse Legends,2022-12-15,80,Adventure
+21,Virtual Reality Quest,85.0,VR Games Co.,2023-03-15,0,VR
+16,wild west Outlaws,48.0,Frontier Games,2022-11-25,60,western
+16,test,55.0,test,[31m,5,test

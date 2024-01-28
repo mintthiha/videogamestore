@@ -1,0 +1,1 @@
+1,Alice,Johnson,alice.johnson@example.com,MEMBER1,5203,166.56,1;50.0;3;40.0;5;10.0;7;20.0;2;30.0;

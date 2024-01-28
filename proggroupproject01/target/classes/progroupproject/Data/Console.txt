@@ -1,0 +1,15 @@
+1,Xbox Series X,499.0,Microsoft,2023-01-01,100,Forza Horizon 5;Gears of war 6;Halo Infinite
+2,PlayStation 5,499.0,Sony,2023-02-15,0,Demon's Souls;Ratchet & Clank: Rift Apart;Spider-Man: Miles Morales
+3,Nintendo Switch,299.0,Nintendo,2022-12-01,200,Animal Crossing: New Horizons;Mario Kart 8 Deluxe;The Legend of Zelda: Breath of the wild
+4,Xbox One X,399.0,Microsoft,2022-11-15,0,Assassin's Creed Valhalla;Call of Duty: warzone;Cyberpunk 2077
+5,PlayStation 4 Pro,349.0,Sony,2022-10-05,120,Bloodborne;Ghost of Tsushima;The Last of Us Part II
+6,Sega Genesis Mini,79.0,Sega,2022-09-20,300,Golden Axe;Sonic the Hedgehog;Streets of Rage 4
+7,Atari VCS,249.0,Atari,2022-08-10,50,Asteroids;Missile Command;Pong
+8,Super Nintendo Entertainment System,199.0,Nintendo,2022-07-25,180,Super Mario world;Super Metroid;The Legend of Zelda: A Link to the Past
+9,Neo Geo Mini,129.0,SNK,2022-06-15,90,King of Fighters '98;Metal Slug;Samurai Shodown
+10,Oculus Quest 2,299.0,Meta,2022-05-30,0,Beat Saber;Superhot VR;The walking Dead: Saints & Sinners
+11,Xbox Series S,299.0,Microsoft,2022-04-10,150,Fable;Grounded;Microsoft Flight Simulator
+12,PlayStation Vita,199.0,Sony,2022-03-25,70,Gravity Rush;Persona 4 Golden;Uncharted: Golden Abyss
+13,TurboGrafx-16 Mini,99.0,Konami,2022-02-10,200,Bonk's Adventure;R-Type;Splatterhouse
+14,ColecoVision Flashback,69.0,Coleco,2022-01-15,250,Donkey Kong;Frogger;Pac-Man
+15,Intellivision Amico,249.0,Intellivision,2021-12-20,100,Astrosmash;City Skylines;Skiing
